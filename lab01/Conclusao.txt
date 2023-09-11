@@ -1,0 +1,2 @@
+Ao ler 10 e 100 arquivos, os algoritmos tivera resultados parecidos.
+Porém, ao ler 1000 arquivos, o desepenho do algoritmo que não utiliza threads foi bem inferior aos outros dois.
